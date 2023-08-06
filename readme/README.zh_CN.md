@@ -20,5 +20,5 @@
 
 ### 开发人员名单
 
-兰斯模组是由以下核心贡献者和[其他人](https://github.com/CaffeineMC/)开发的。
+兰斯模组是由以下核心贡献者和[其他人](https://github.com/LNGS-Horse/LanceMod/graphs/contributors)开发的。
 您可以通过点击下方链接来关注核心团队成员的社交账户。
