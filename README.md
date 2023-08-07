@@ -1,7 +1,7 @@
 # LanceMOD
 
 ## 🌏Supported Languages and license:  
-[![EN](https://img.shields.io/badge/English-Click-blue)](./README/README.en_US.md)
+[![EN](https://img.shields.io/badge/English-Click-blue)](./README.md)
 [![CN](https://img.shields.io/badge/简体中文-Click-blue)](./README/README.zh_CN.md)
 [![ES](https://img.shields.io/badge/Español-Click-blue)](./README/README.es_ES.md)
 ![MIT](https://img.shields.io/badge/License-MIT-green)
