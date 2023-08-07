@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "lancemod:lai_yin_kuang_shi",
+  "step": "underground_ores"
+}

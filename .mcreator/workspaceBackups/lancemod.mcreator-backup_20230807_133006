@@ -1,0 +1,77 @@
+{
+  "mod_elements": [
+    {
+      "name": "LaiYinYuanKuang",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lai_yin_yuan_kuang",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lancemod/models/item/lai_yin_yuan_kuang.json",
+          "src/main/java/lm/lancemod/item/LaiYinYuanKuangItem.java"
+        ]
+      }
+    },
+    {
+      "name": "LaiYinKuangShi",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lai_yin_kuang_shi",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lancemod/forge/biome_modifier/lai_yin_kuang_shi_biome_modifier.json",
+          "src/main/resources/assets/lancemod/blockstates/lai_yin_kuang_shi.json",
+          "src/main/resources/assets/lancemod/models/block/lai_yin_kuang_shi.json",
+          "src/main/java/lm/lancemod/world/features/ores/LaiYinKuangShiFeature.java",
+          "src/main/java/lm/lancemod/block/LaiYinKuangShiBlock.java",
+          "src/main/resources/assets/lancemod/models/item/lai_yin_kuang_shi.json"
+        ]
+      }
+    },
+    {
+      "name": "LanSiMoZu",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lan_si_mo_zu",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.lancemod.lai_yin_kuang_shi": "莱茵矿石",
+      "itemGroup.tablan_si_mo_zu": "兰斯模组",
+      "item.lancemod.lai_yin_yuan_kuang": "莱茵矿石"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "lancemod",
+    "modName": "兰斯模组",
+    "version": "1.0.0",
+    "author": "19430, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "lm.lancemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}
