@@ -4,11 +4,11 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="lancemod"
-version="1.0.0"
+version="0.0.1"
 displayName="兰斯模组"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="19430, MCreator"
+credits="MCreatort，LNGS，HuanMeng"
+displayURL="https://space.bilibili.com/626446902"
+authors="LNGS,HuanMeng, MCreator"
 
 [[dependencies.lancemod]]
     modId="minecraft"
