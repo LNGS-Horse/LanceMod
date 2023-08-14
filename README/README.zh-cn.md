@@ -13,12 +13,8 @@
 **社区**:  
 [![Discord](https://img.shields.io/badge/Discord-Click-purple)](https://discord.gg/3mDtaRUyqf)
 
-# 🧐LanceMod的优势?  
-相较于其他服务器管理模组，LanceMod具有以下优势:  
- - 小巧
- - 便捷
- - 更新快
- - 以及更多...
+# 🧐LanceMod的特点?  
+待补充。
 
 # 🧐如何安装或使用?  
 下载 **Fabric** 或 **Forge** 并将本模组放入 **mods**文件夹  
