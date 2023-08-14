@@ -13,12 +13,8 @@
 This is our community:  
 [![Discord](https://img.shields.io/badge/Discord-Click-purple)](https://discord.gg/3mDtaRUyqf)
 
-# 🧐The advantages of LanceMod?  
-Compared to other server management modules, LanceMode has the following characteristics:  
- - Small and compact
- - convenient
- - Fast update speed
- - and more...
+# 🧐What are the features of LanceMod?
+Wait for perfection.
 
 # 🧐How to install or use the mod?  
 Download **Fabric** or **Forge** and place this mod in the **mods** folder.
