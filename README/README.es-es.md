@@ -10,12 +10,8 @@
 # 🤔Que es LanceMOD?  
 **_Lance mod_** es un mod de Minecraft gratuito y de código abierto, su objetivo principal es proporcionar a los jugadores un juego adicional diferente al original para ayudar a los jugadores a obtener una mejor experiencia de juego. Funciona en **tanto clientes como servidores**.
 
-# 🧐Las ventajas de LanceMod?  
-En comparación con otros módulos de administración de servidores, LanceMode tiene las siguientes características:  
- - Pequeño y compacto
- - conveniente
- - Velocidad de actualización rápida
- - y más...
+# 🧐Cuáles son las características de LanceMod?
+Espera la perfección.
 
  # 🧐Cómo instalar o usar el mod?  
 Descarga **Fabric** o **Forge** y coloca este mod en la carpeta **mods**.
