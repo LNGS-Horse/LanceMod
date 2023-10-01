@@ -1,5 +1,7 @@
 # LanceMod
 
+![LOGO](./img/icon.png)
+
 ## 🌏Idiomas y licencias compatibles:  
 [![EN](https://img.shields.io/badge/English-Click-blue)](../README.md)
 [![CN](https://img.shields.io/badge/简体中文-Click-blue)](./README.zh-cn.md)
